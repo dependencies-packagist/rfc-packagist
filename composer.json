@@ -1,0 +1,22 @@
+{
+    "name": "rfc/packagist",
+    "description": "RFC Packagist.",
+    "keywords": [
+        "rfc packagist"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jundayw",
+            "email": "jundayw@126.com"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.x-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
